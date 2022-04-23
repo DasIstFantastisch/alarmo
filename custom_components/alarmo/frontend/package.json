@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nielsfaber/alarmo.git"
+    "url": "git+https://github.com/DasIstFantastisch/alarmo.git"
   },
   "author": "nielsfaber",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nielsfaber/alarmo/issues"
+    "url": "https://github.com/DasIstFantastisch/alarmo/issues"
   },
-  "homepage": "https://github.com/nielsfaber/alarmo#readme",
+  "homepage": "https://github.com/DasIstFantastisch/alarmo#readme",
   "dependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
