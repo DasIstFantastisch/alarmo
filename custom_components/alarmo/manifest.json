@@ -1,8 +1,8 @@
 {
   "domain": "alarmo",
   "name": "Alarmo",
-  "documentation": "https://github.com/nielsfaber/alarmo",
-  "issue_tracker": "https://github.com/nielsfaber/alarmo/issues",
+  "documentation": "https://github.com/DasIstFantastisch/alarmo",
+  "issue_tracker": "https://github.com/DasIstFantastisch/alarmo/issues",
   "version": "v0.0.0",
   "dependencies": [
     "http",
