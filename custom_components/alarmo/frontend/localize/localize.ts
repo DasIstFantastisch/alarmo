@@ -6,6 +6,7 @@ import * as fr from './languages/fr.json';
 import * as it from './languages/it.json';
 import * as nl from './languages/nl.json';
 import * as sv from './languages/sv.json';
+import * as ru from './languages/ru.json';
 
 import IntlMessageFormat from 'intl-messageformat';
 
@@ -18,6 +19,7 @@ var languages: any = {
   it: it,
   nl: nl,
   sv: sv,
+  ru: ru,
 };
 
 export function localize(string: string, language: string, ...args: any[]): string {
